@@ -1,4 +1,4 @@
-# 🧠 Facial Emotion Recognition with Transfer Learning
+#  Facial Emotion Recognition with Transfer Learning
 
 This project demonstrates an AI model capable of detecting **human emotions from facial images** using **transfer learning**.  
 It applies modern deep learning techniques to classify images into seven emotion categories: *anger, disgust, fear, happiness, sadness, surprise, neutral.*
@@ -14,7 +14,7 @@ It applies modern deep learning techniques to classify images into seven emotion
 
 ---
 
-## 🧩 Key Features
+##  Key Features
 - Efficient use of **transfer learning** for small datasets  
 - Modular **PyTorch pipeline** (Dataset, DataLoader, training loop)  
 - Real-time performance and solid generalization  
@@ -22,7 +22,7 @@ It applies modern deep learning techniques to classify images into seven emotion
 
 ---
 
-## 🧠 Model Highlights
+##  Model Highlights
 | Metric | Result |
 |---------|--------|
 | Training Accuracy | ~90% |
@@ -33,7 +33,7 @@ It applies modern deep learning techniques to classify images into seven emotion
 
 ---
 
-## 🧪 Run the Project
+##  Run the Project
 
 ```bash
 git clone https://github.com/<yourusername>/emotion-recognition.git
@@ -44,7 +44,7 @@ jupyter notebook Facial_Emotion_Recognition.ipynb
 
 ---
 
-## 📂 Structure
+##  Structure
 
 ```
 emotion-recognition/
@@ -57,7 +57,7 @@ emotion-recognition/
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 - Integrate **data augmentation** and **class balancing**
 - Try **EfficientNet**, **MobileNet**, or **Vision Transformers**
 - Build an **interactive demo** (Streamlit / Gradio)
@@ -65,7 +65,7 @@ emotion-recognition/
 ---
 
 ## 👨‍💻 Author
-**Ethan Lopin**  
+** Ricardos Abi Akar**  
 AI Engineer — Deep Learning | Computer Vision | MLOps  
 📫 [LinkedIn](https://www.linkedin.com/in/ethanlopin) | 💻 [GitHub](https://github.com/elopin)
 
